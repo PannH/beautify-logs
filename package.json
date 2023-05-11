@@ -1,0 +1,43 @@
+{
+   "name": "beautify-logs",
+   "version": "1.0.0",
+   "description": "Elegant logs for your elegant apps with many available formats and Markdown formatting.",
+   "main": "build/index.js",
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/PannH/beautify-logs.git"
+   },
+   "keywords": [
+      "logs",
+      "logger",
+      "logging",
+      "beautiful",
+      "beautify",
+      "pretty",
+      "prettier",
+      "prettify",
+      "elegant",
+      "fancy",
+      "debug",
+      "debugger",
+      "debugging",
+      "process",
+      "console",
+      "colored",
+      "colors",
+      "colorify"
+   ],
+   "author": "PannH",
+   "license": "MIT",
+   "bugs": {
+      "url": "https://github.com/PannH/beautify-logs/issues"
+   },
+   "homepage": "https://github.com/PannH/beautify-logs#readme",
+   "devDependencies": {
+      "@types/node": "^20.1.2",
+      "typescript": "^5.0.4"
+   },
+   "dependencies": {
+      "chalk": "^4.1.2"
+   }
+}
