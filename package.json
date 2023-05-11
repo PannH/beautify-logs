@@ -1,6 +1,6 @@
 {
    "name": "beautify-logs",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Elegant logs for your elegant apps with many available formats and Markdown formatting.",
    "main": "build/index.js",
    "repository": {
